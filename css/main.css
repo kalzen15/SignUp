@@ -1,0 +1,62 @@
+body{
+	background-color: #298eea;
+	padding-top: 60px;
+	font-family: Raleway;
+	font-weight: bold;
+}
+.logo{
+	display: block;
+	height: 35px;
+	margin:0 auto 30px;
+}
+.signUp{
+	display: block;
+	background-color: white;
+	width:320px;
+	padding:40px;
+	margin:0 auto;
+}
+.heading{
+	text-align: center;
+	width: 100%;
+	font-size: 35px;
+	color: #686868;
+	margin-bottom: 45px;
+}
+label{
+	display: block;
+	font-size: 18px;
+}
+input{
+	display: block;
+	font:inherit;
+	font-size: 18px;
+	width:286px;
+	height:auto;
+	padding: 15px;
+	margin: 10px auto 20px;
+	border-radius: 2px;
+	border:2px solid #dddddd;
+}
+.ending{
+	display: block;
+	text-align: center;
+	color: white;
+}
+a{
+	color: white;
+}
+
+button{
+	display: block;
+	text-align: center;
+	font:inherit;
+	color:white;
+	font-size: 20px;
+	width: 100%;
+	height: 55px;
+	border-radius: 3px;
+	border: 2px;
+	background-color: green;
+
+}
